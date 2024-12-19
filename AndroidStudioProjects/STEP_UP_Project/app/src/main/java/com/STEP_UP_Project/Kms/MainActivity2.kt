@@ -367,7 +367,7 @@ class MainActivity2 : AppCompatActivity() {
 
         // 팝업 메뉴에 항목 추가
         popupMenu.menuInflater.inflate(R.menu.popup_menu, popupMenu.menu)
-
+        //asdf asdf asdf asdf
         // 메뉴 항목 클릭 리스너 설정
         popupMenu.setOnMenuItemClickListener { item: MenuItem ->
             when (item.itemId) {
