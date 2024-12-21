@@ -34,12 +34,12 @@
             android:label="@string/title_activity_settings"
             android:theme="@style/Theme.MP_teamproject" />
         <activity
-            android:name=".HomeActivity"
+            android:name=".DetailActivity"
             android:exported="false"
             android:label="HomeActivity"
             android:theme="@style/Theme.MP_teamproject" />
         <activity
-            android:name=".MainActivity"
+            android:name=".HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

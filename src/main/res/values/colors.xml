@@ -7,8 +7,10 @@
     <color name="colorPrimaryDark">#D7D7D7</color>
     <color name="colorAccent">#51E3D4</color>
     <color name="colorIndigo">#474F85</color>
+    <color name="colorPrimaryLittleDark">#E2E8EA</color>
+
 
     <!-- 추가 색상 (필요 시) -->
-    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorBackground">#F3F9FB</color>
     <color name="colorTextPrimary">#000000</color>
 </resources>
