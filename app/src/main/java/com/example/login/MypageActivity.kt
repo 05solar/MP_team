@@ -47,6 +47,28 @@ class MypageActivity : AppCompatActivity() {
 
         val menuButton: ImageButton = findViewById(R.id.menu)
 
+        //아래는 그림들 네개 클릭하면 어디로 갈 지 거든?
+        //잘 몰겠으면 언제든 카톡 줘 - jsh
+        gotoalarm.setOnClickListener {
+            val intent = Intent(this, AlarmActivity::class.java)
+            startActivity(intent)
+        }
+
+        gotorecord.setOnClickListener {
+            val intent = Intent(this, RecordActivity::class.java)
+            startActivity(intent)
+        }
+
+        gotocalendar.setOnClickListener {
+            val intent = Intent(this, CalendarActivity::class.java)
+            startActivity(intent)
+        }
+
+        gotohome.setOnClickListener {
+            val intent = Intent(this, HomeActivity::class.java)
+            startActivity(intent)
+
+
         // 메뉴 버튼 클릭 이벤트
         menuButton.setOnClickListener { v: View ->
             // PopupMenu 생성
