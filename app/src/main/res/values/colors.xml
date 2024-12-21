@@ -1,0 +1,14 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--  기본 색상 정의  -->
+    <color name="colorPrimary">#F3F9FB</color>
+    <color name="colorPrimaryDark">#D7D7D7</color>
+    <color name="colorAccent">#51E3D4</color>
+    <color name="colorIndigo">#474F85</color>
+    <color name="colorPrimaryLittleDark">#E2E8EA</color>
+    <!--  추가 색상 (필요 시)  -->
+    <color name="colorBackground">#F3F9FB</color>
+    <color name="mypageBackground">#F5F0CD</color>
+    <color name="colorTextPrimary">#000000</color>
+</resources>
