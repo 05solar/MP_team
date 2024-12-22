@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385217563885",
+    "project_id": "aaaaaa-dbf62",
+    "storage_bucket": "aaaaaa-dbf62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385217563885:android:c3fd88298989c6bfa7d0e4",
+        "android_client_info": {
+          "package_name": "res.flow33.BBigProject.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8JKmiF1f_9oQ8lACJBlJua0vgkIPBFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
